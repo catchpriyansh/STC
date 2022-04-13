@@ -12,7 +12,7 @@ color_theme = "conf2"
 font = "font4"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "A full-day workshop on the R Markdown family of packages for the Statistical Society of Australia"
